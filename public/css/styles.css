@@ -1,0 +1,15 @@
+h1{
+    color: blueviolet;
+    font-size: 50px;
+    max-width: 600px;
+}
+p{
+    color: red;
+    margin: 0 auto;
+    display: flex;
+}
+footer{
+    background: grey;
+    margin: 16px;
+    padding: 16px;
+}
